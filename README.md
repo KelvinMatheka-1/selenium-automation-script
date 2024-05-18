@@ -1,12 +1,7 @@
 
 # Selenium Automation Script for AutomationExercise
 
-This README provides instructions for setting up and running the Selenium automation script for testing the AutomationExercise website. The script performs various actions including signing in, fetching items, sorting them, adding items to the cart, and placing an order.
-
-# Selenium Automation Script README
-
-This README describes a Selenium automation script that performs several e-commerce operations on
-the "https://www.automationexercise.com" website.
+This README provides instructions for setting up and running the Selenium automation script for testing the AutomationExercise website. The script performs various actions including signing in, fetching items, sorting them, adding items to the cart, and placing an order on the "https://www.automationexercise.com" website.
 
 ### Overview
 
