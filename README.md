@@ -1,3 +1,8 @@
+
+# Selenium Automation Script for AutomationExercise
+
+This README provides instructions for setting up and running the Selenium automation script for testing the AutomationExercise website. The script performs various actions including signing in, fetching items, sorting them, adding items to the cart, and placing an order.
+
 # Selenium Automation Script README
 
 This README describes a Selenium automation script that performs several e-commerce operations on
@@ -69,6 +74,7 @@ python3 main.py
 Replace `<script_name>` with the actual name of your Python file.
 
 ### Note:
-Ensure that the details in the script (like login credentials or product names) are accurate as per the current scenario on "https://www.automationexercise.com" for successful execution.
+Ensure that the details in the script (like login credentials or product names) are accurate as per the current scenario on 
+"https://www.automationexercise.com" for successful execution.
 
 For any updates to the website's layout or element classes/identifiers, you may need to update the corresponding locators in the script.
